@@ -30,8 +30,8 @@ The dataset has been sourced from the Codebasics website. Data for this assement
 - ``fact_ad_revenue``: Tracks quarterly ad revenues by city and category.
 - ``fact_city_readiness``: Provides dynamic, time-based readiness scores for each city using three factors—literacy rate, smartphone penetration, and internet penetration.
 - ``fact_digital_pilot``: Details Bharat Herald’s short-lived digital pilot during 2021.
-- ``fact_Print_sales`` : Captures monthly print performance of Bharat Herald across cities.
-Data dictionary for each data segment can be accessed [here] (D:\RPC_17_Legacy Newspaper’\rpc_17_inputs\Bharat_Herald_Project\Datasets)
+- ``fact_Print_sales`` : Captures monthly print performance of Bharat Herald across cities.\
+Data dictionary for each data segment can be accessed [here] (https://github.com/Aftab-Ahmadajk/Bharat-Herald-Media-Survival-Analysis-Project/blob/main/Datasets/metadata.txt)
 
 ## **``Deliverables``**:
 -	**Executive Summary**: A strategic roadmap with focused insights and prescriptive actions.
