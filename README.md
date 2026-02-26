@@ -45,20 +45,20 @@ An integrated star-schema data model that unifies print, revenue, digital engage
 ## **``Key Insights``**
 I conducted a comprehensive analysis using Powerbi to address the primary and secondary questions posed by the stakeholders. During this process, I identified several key insights that were instrumental in answering these critical questions.
 - **Accelerating Print Contraction**: Structural decay is evident as Net Circulation (-6.22%) is falling faster than production can be reduced, making the digital transition an immediate necessity.
-- **The Volume-Profit Paradox**: High-volume hubs like Varanasi and Jaipur are flagged as "Low Performers" due to poor margins, while smaller markets like Patna and Lucknow drive sustainability with higher net profits.
-- **Operational "Leaks"**: Varanasi (3.35M) and Jaipur (3.18M) exhibit the largest cumulative waste gaps, signaling that the "cost of reach" in legacy cities is becoming unsustainable.
-- **Revenue Leadership Shift**: Government ad dominance has plummeted, replaced by Real Estate as the top category at ₹114M by 2024, while FMCG shows strong recovery resilience.
-- **Monetization Efficiency**: Lucknow leads with a superior ₹18.14 ad revenue per copy, significantly outperforming legacy markets like Varanasi (₹7.10) in per-copy profitability.
-- **The Engagement Gap**: Kanpur possesses the highest digital readiness (75.10%) but the lowest pilot engagement (~40%), indicating failures due to UX friction rather than a lack of technology.
+- **The Volume-Profit Paradox**: High-volume hubs like ``Varanasi`` and ``Jaipur`` are flagged as "Low Performers" due to poor margins, while smaller markets like ``Patna`` and ``Lucknow`` drive sustainability with higher net profits.
+- **Operational "Leaks"**: ``Varanasi`` (3.35M) and ``Jaipur`` (3.18M) exhibit the largest cumulative waste gaps, signaling that the "cost of reach" in legacy cities is becoming unsustainable.
+- **Revenue Leadership Shift**: Government ad dominance has plummeted, replaced by ``Real Estate`` as the top category at ₹114M by 2024, while ``FMCG`` shows strong recovery resilience.
+- **Monetization Efficiency**: ``Lucknow`` leads with a superior ₹18.14 ad revenue per copy, significantly outperforming legacy markets like ``Varanasi`` (₹7.10) in per-copy profitability.
+- **The Engagement Gap**: ``Kanpur`` possesses the highest digital readiness (75.10%) but the lowest pilot engagement (~40%), indicating failures due to UX friction rather than a lack of technology.
 - **Digital Adoption**: The Mobile App Beta outperformed all other channels, achieving the highest active access with 209K users and the lowest drop-off rate of 38.17%
 
 ## **``Recommendations``**
--	**Pivot to "Value-First" Monetization**: Replicate high-margin models from Patna and Lucknow across all hubs to prioritize yield per reader over raw circulation volume.
--	**Halt Operational Leaks**: Implement a Demand-Sensing Model and downscale print runs in Varanasi and Jaipur to stop the financial hemorrhage caused by 6.5M+ in cumulative waste.
--	**Targeted Digital Relaunch**: Launch a premium mobile app in Lucknow and WhatsApp-based news in Ahmedabad to capitalize on their peak engagement rates.
--	**Bridge the Engagement Gap**: Execute a total UX overhaul in Kanpur and Varanasi to convert high digital readiness (74%+) into active usage through low-friction delivery.
+-	**Pivot to "Value-First" Monetization**: Replicate high-margin models from ``Patna`` and ``Lucknow`` across all hubs to prioritize yield per reader over raw circulation volume.
+-	**Halt Operational Leaks**: Implement a Demand-Sensing Model and downscale print runs in ``Varanasi`` and Jaipur to stop the financial hemorrhage caused by 6.5M+ in cumulative waste.
+-	**Targeted Digital Relaunch**: Launch a premium mobile app in ``Lucknow`` and WhatsApp-based news in ``Ahmedabad`` to capitalize on their peak engagement rates.
+-	**Bridge the Engagement Gap**: Execute a total UX overhaul in ``Kanpur`` and ``Varanasi`` to convert high digital readiness (74%+) into active usage through low-friction delivery.
 -	**Modernize Ad Sales**: Secure the ₹886.32M Commercial Brand segment by bundling resilient Real Estate and FMCG sectors into integrated "Print + Digital" packages.
--	**Regional Credibility**: Empower local journalists and influencers in Phase 1 cities (Lucknow, Ahmedabad & Varanasi) to lead "Expert Bulletins," transforming legacy authority into digital thought leadership.
+-	**Regional Credibility**: Empower local journalists and influencers in Phase 1 cities (``Lucknow, Ahmedabad & Varanasi``) to lead "Expert Bulletins," transforming legacy authority into digital thought leadership.
 -	**Mobile-First Format**: Replace heavy e-papers with lightweight WhatsApp Bulletins and a "Lite" app to fix the 75% bounce rate in cities like Varanasi.
 
 ## **``Dashboard Insights``**:
