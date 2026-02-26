@@ -28,10 +28,10 @@ The dataset has been sourced from the Codebasics website. Data for this assement
 - ``dim_City``: Lookup table for all cities in Bharat Herald’s operational scope.
 - ``dim_ad_category``: Normalizes inconsistent ad category entries from fact_ad_revenue.
 - ``fact_ad_revenue``: Tracks quarterly ad revenues by city and category.
-- ``fact_city_readiness``: Provides dynamic, time-based readiness scores for each city using three factors—literacy rate, smartphone penetration, and internet penetration.
+- ``fact_city_readiness``: Provides dynamic, time-based readiness scores for each city using three factors-literacy rate, smartphone penetration, and internet penetration.
 - ``fact_digital_pilot``: Details Bharat Herald’s short-lived digital pilot during 2021.
 - ``fact_Print_sales`` : Captures monthly print performance of Bharat Herald across cities.\
-Data dictionary for each data segment can be accessed [here] (https://github.com/Aftab-Ahmadajk/Bharat-Herald-Media-Survival-Analysis-Project/blob/main/Datasets/metadata.txt)
+Data dictionary for each data segment can be accessed [here](https://github.com/Aftab-Ahmadajk/Bharat-Herald-Media-Survival-Analysis-Project/blob/main/Datasets/metadata.txt)
 
 ## **``Deliverables``**:
 -	**Executive Summary**: A strategic roadmap with focused insights and prescriptive actions.
