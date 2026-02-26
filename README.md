@@ -58,7 +58,7 @@ I conducted a comprehensive analysis using Powerbi to address the primary and se
 -	**Targeted Digital Relaunch**: Launch a premium mobile app in Lucknow and WhatsApp-based news in Ahmedabad to capitalize on their peak engagement rates.
 -	**Bridge the Engagement Gap**: Execute a total UX overhaul in Kanpur and Varanasi to convert high digital readiness (74%+) into active usage through low-friction delivery.
 -	**Modernize Ad Sales**: Secure the ₹886.32M Commercial Brand segment by bundling resilient Real Estate and FMCG sectors into integrated "Print + Digital" packages.
--	**Regional Credibility**: Empower local journalists and influencers in Phase 1 cities to lead "Expert Bulletins," transforming legacy authority into digital thought leadership.
+-	**Regional Credibility**: Empower local journalists and influencers in Phase 1 cities (Lucknow, Ahmedabad & Varanasi) to lead "Expert Bulletins," transforming legacy authority into digital thought leadership.
 -	**Mobile-First Format**: Replace heavy e-papers with lightweight WhatsApp Bulletins and a "Lite" app to fix the 75% bounce rate in cities like Varanasi.
 
 ## **``Dashboard Insights``**:
