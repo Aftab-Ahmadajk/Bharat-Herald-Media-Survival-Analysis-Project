@@ -44,7 +44,7 @@ An integrated star-schema data model that unifies print, revenue, digital engage
 
 ## **``Key Insights``**
 I conducted a comprehensive analysis using Powerbi to address the primary and secondary questions posed by the stakeholders. During this process, I identified several key insights that were instrumental in answering these critical questions.
-- Accelerating Print Contraction: Structural decay is evident as Net Circulation (-6.22%) is falling faster than production can be reduced, making the digital transition an immediate necessity.
+- **``Accelerating Print Contraction``**: Structural decay is evident as Net Circulation (-6.22%) is falling faster than production can be reduced, making the digital transition an immediate necessity.
 - **``The Volume-Profit Paradox``**: High-volume hubs like Varanasi and Jaipur are flagged as "Low Performers" due to poor margins, while smaller markets like Patna and Lucknow drive sustainability with higher net profits.
 - **``Operational "Leaks"``**: Varanasi (3.35M) and Jaipur (3.18M) exhibit the largest cumulative waste gaps, signaling that the "cost of reach" in legacy cities is becoming unsustainable.
 - **``Revenue Leadership Shift``**: Government ad dominance has plummeted, replaced by Real Estate as the top category at ₹114M by 2024, while FMCG shows strong recovery resilience.
