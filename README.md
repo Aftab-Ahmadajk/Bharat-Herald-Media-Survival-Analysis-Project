@@ -16,27 +16,27 @@ The stakeholder for this comprehensive data assessment report is **Tony Sharma**
 The core challenge is a "Death Spiral" of declining circulation and inefficient ad spending. The objective is to identify how Bharat Herald can cut operational waste, reclaim advertiser trust in key sectors like Real Estate, and successfully relaunch its digital platforms in high-readiness markets
 
 ## **``Tools Used``**:
-**Power BI**:	    Dashboard creation and storytelling
-**Power Query**:	Data cleaning, shaping, and transformation
-**DAX**:		    Calculated measures and KPIs within Power BI
+- **Power BI**:	    Dashboard creation and storytelling
+- **Power Query**:	Data cleaning, shaping, and transformation
+- **DAX**:		    Calculated measures and KPIs within Power BI
 
 
 ## **``Data Source``**:
 The dataset has been sourced from the Codebasics website. Data for this assement analysis is open access to the public for data analysis and insight generation, making it a valuable educational resource. You can access the data [here](https://codebasics.io/challenges/codebasics-resume-project-challenge/21). 
 
 ## **``About the Datasets``**:
-•	dim_City: Lookup table for all cities in Bharat Herald’s operational scope.
-•	dim_ad_category: Normalizes inconsistent ad category entries from fact_ad_revenue.
-•	fact_ad_revenue: Tracks quarterly ad revenues by city and category.
-•	fact_city_readiness: Provides dynamic, time-based readiness scores for each city using three factors—literacy rate, smartphone penetration, and internet penetration.
-•	fact_digital_pilot: Details Bharat Herald’s short-lived digital pilot during 2021.
-•	fact_Print_sales : Captures monthly print performance of Bharat Herald across cities.
+- ``dim_City``: Lookup table for all cities in Bharat Herald’s operational scope.
+- ``dim_ad_category``: Normalizes inconsistent ad category entries from fact_ad_revenue.
+- ``fact_ad_revenue``: Tracks quarterly ad revenues by city and category.
+- ``fact_city_readiness``: Provides dynamic, time-based readiness scores for each city using three factors—literacy rate, smartphone penetration, and internet penetration.
+- ``fact_digital_pilot``: Details Bharat Herald’s short-lived digital pilot during 2021.
+- ``fact_Print_sales`` : Captures monthly print performance of Bharat Herald across cities.
 Data dictionary for each data segment can be accessed [here] (D:\RPC_17_Legacy Newspaper’\rpc_17_inputs\Bharat_Herald_Project\Datasets)
 
 ## **``Deliverables``**:
--	Executive Summary: A strategic roadmap with focused insights and prescriptive actions.
--	Power BI Report: Interactive dashboards visualizing the print-to-digital transition.
--	Video Presentation: A professional walkthrough of the analysis and findings.
+-	**Executive Summary**: A strategic roadmap with focused insights and prescriptive actions.
+-	**Power BI Report**: Interactive dashboards visualizing the print-to-digital transition.
+-	**Video Presentation**: A professional walkthrough of the analysis and findings.
 
 ## **``Data Model``**:
 An integrated star-schema data model that unifies print, revenue, digital engagement, and city-level metrics through shared dimensions enabling consistent, cross-functional, and time-based performance analysis.
