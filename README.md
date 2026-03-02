@@ -45,25 +45,25 @@ An integrated star-schema data model that unifies print, revenue, digital engage
 ## **``Key Insights``**
 I conducted a comprehensive analysis using Powerbi to address the primary and secondary questions posed by the stakeholders. During this process, I identified several key insights that were instrumental in answering these critical questions.
 - **Accelerating Print Contraction**:
-![Sample Image](./Images/Insights_01.jpg)
+![Sample Image](./Images/Insights-01.jpg)
 Structural decay is evident as Net Circulation (-6.22%) is falling faster than production can be reduced, making the digital transition an immediate necessity.
 - **The Volume-Profit Paradox**:
-![Sample Image](./Images/Insights_02.jpg)
+![Sample Image](./Images/Insights-02.jpg)
 High-volume hubs like ``Varanasi`` and ``Jaipur`` are flagged as "Low Performers" due to poor margins, while smaller markets like ``Patna`` and ``Lucknow`` drive sustainability with higher net profits.
 - **Operational "Leaks"**:
-![Sample Image](./Images/Insights_03.jpg)
+![Sample Image](./Images/Insights-03.jpg)
 ``Varanasi`` (3.35M) and ``Jaipur`` (3.18M) exhibit the largest cumulative waste gaps, signaling that the "cost of reach" in legacy cities is becoming unsustainable.
 - **Revenue Leadership Shift**:
-![Sample Image](./Images/Insights_04.jpg)
+![Sample Image](./Images/Insights-04.jpg)
 Government ad dominance has plummeted, replaced by ``Real Estate`` as the top category at ₹114M by 2024, while ``FMCG`` shows strong recovery resilience.
 - **Monetization Efficiency**:
-![Sample Image](./Images/Insights_05.jpg)
+![Sample Image](./Images/Insights-05.jpg)
  ``Lucknow`` leads with a superior ₹18.14 ad revenue per copy, significantly outperforming legacy markets like ``Varanasi`` (₹7.10) in per-copy profitability.
 - **The Engagement Gap**:
-![Sample Image](./Images/Insights_06.jpg)
+![Sample Image](./Images/Insights-06.jpg)
  ``Kanpur`` possesses the highest digital readiness (75.10%) but the lowest pilot engagement (~40%), indicating failures due to UX friction rather than a lack of technology.
 - **Digital Adoption**:
-![Sample Image](./Images/Insights_07.jpg)
+![Sample Image](./Images/Insights-07.jpg)
  The Mobile App Beta outperformed all other channels, achieving the highest active access with 209K users and the lowest drop-off rate of 38.17%
 
 ## **``Recommendations``**
